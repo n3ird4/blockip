@@ -12,8 +12,8 @@ prerequisites :
 
 How to:
 
-git clone https://github.com/n3ird4/blockip.git
-chmod +x blockip.sh
-sudo cp blockip.sh /usr/bin/blockip
-blockip X.X.X.X
+* git clone https://github.com/n3ird4/blockip.git
+* chmod +x blockip.sh
+* sudo cp blockip.sh /usr/bin/blockip
+* blockip X.X.X.X
   
