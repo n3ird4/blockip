@@ -6,7 +6,7 @@ Simple script in order to give you **information about IPs** and the possibility
 
 * curl
 * iproute2
-* set foldmethod=marker (in my ~/.vimrc)
+* [set foldmethod=marker (in my ~/.vimrc)]
 
 
 ##How to:
