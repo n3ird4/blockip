@@ -1,15 +1,15 @@
 # blockip
 
-Simple script in order to give you **information about IPs** and the possibility to **blackhole** them. :point_up::sun_with_face:
+Simple script in order to give you **information about IPs** and the possibility to **blackhole** them. :sun_with_face:
 
-##prerequisites : 
+## prerequisites : 
 
 * curl
 * iproute2
 * [set foldmethod=marker (in my ~/.vimrc)]
 
 
-##How to:
+## How to:
 
 * git clone https://github.com/n3ird4/blockip.git
 * chmod +x blockip.sh
