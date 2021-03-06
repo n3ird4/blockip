@@ -2,7 +2,7 @@
 
 Simple script in order to give you **information about IPs** and the possibility to **blackhole** them. :sun_with_face:
 
-## prerequisites : 
+## Prerequisites : 
 
 * curl
 * iproute2
